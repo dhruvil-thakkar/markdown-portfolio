@@ -1,6 +1,6 @@
 # Skills
 
-Below is a **list**d of my *technical Skills:
+Below is a **listd** of my *technical Skills:*
 
 ## Programming languages
 - Ruby
