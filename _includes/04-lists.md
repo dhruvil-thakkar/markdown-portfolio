@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# List of Favourite Things:
+- Chinese Food
+- Ice Cream
+- Smoothie
+- Salad
